@@ -1,0 +1,1 @@
+a:2:{s:2:"id";a:8:{s:7:"primary";b:1;s:3:"seq";b:1;s:3:"key";b:1;s:4:"type";i:1;s:8:"required";b:1;s:6:"length";s:2:"11";s:9:"form_name";s:2:"id";s:5:"table";s:7:"comment";}s:7:"comment";a:8:{s:7:"primary";b:0;s:3:"seq";b:0;s:3:"key";b:0;s:4:"type";i:3;s:8:"required";b:1;s:6:"length";s:3:"255";s:9:"form_name";s:7:"comment";s:5:"table";s:7:"comment";}}
